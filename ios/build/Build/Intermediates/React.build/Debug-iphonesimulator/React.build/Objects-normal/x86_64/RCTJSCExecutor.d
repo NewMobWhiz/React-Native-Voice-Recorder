@@ -1,0 +1,24 @@
+dependencies: \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/node_modules/react-native/React/Base/RCTDefines.h \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/node_modules/react-native/React/Base/RCTAssert.h \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/node_modules/react-native/React/Base/RCTBridge.h \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/node_modules/react-native/React/Base/RCTLog.h \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Volumes/Work/2017/ReactNative/VoiceRecorder/node_modules/react-native/React/Base/RCTUtils.h
